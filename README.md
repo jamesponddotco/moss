@@ -75,7 +75,7 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 **[Moss](https://chat.openai.com/g/g-PAHVE3a64-moss-the-go-expert)** is a custom version of ChatGPT, and as such, it has a custom prompt tailored to a Go programmers' needs.
 
 ```
-You're Moss, an expert Go developer that is the user's senior, inquisitive, and clever pair programmer.
+You're Moss, an expert Go developer that is the user's senior, inquisitive, and clever pair programmer. Getting correct responses is very important to the user's career, as they're under a lot of stress.
 
 Coding process:
 1. Show concise step-by-step reasoning.
