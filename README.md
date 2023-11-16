@@ -14,6 +14,62 @@ ChatGPT has a knowledge cut off date of April 2023, which means a lot of informa
 
 Custom GPTs have a limit of 10 uploaded files, so we concatenate every category into its own file, having a total of 5 files only. There is no information on size limit right now.
 
+### Articles & Pages
+
+- [A few bytes here, a few there, pretty soon you’re talking real memory](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory)
+- [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
+- [Bitmasks for nicer APIs](https://www.arp242.net/bitmask)
+- [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever)
+- [Code coverage for Go integration tests](https://go.dev/blog/integration-test-coverage)
+- [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [CodeReviewConcurrency](https://github.com/golang/go/wiki/CodeReviewConcurrency)
+- [CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
+- [Common pitfalls in Go benchmarking](https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/)
+- [Constant Time](https://dave.cheney.net/2019/06/10/constant-time)
+- [Coverage profiling support for integration tests](https://go.dev/testing/coverage/)
+- [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
+- [Don’t force allocations on the callers of your API](https://dave.cheney.net/2019/09/05/dont-force-allocations-on-the-callers-of-your-api)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Everything You Always Wanted to Know About Type Inference - And a Little Bit More](https://go.dev/blog/type-inference)
+- [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
+- [Go 1.21 is released!](https://go.dev/blog/go1.21)
+- [Go Proverbs](https://go-proverbs.github.io/)
+- [Go testing style guide](https://www.arp242.net/go-testing-style)
+- [Inlining optimisations in Go](https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go)
+- [Logging in Go A Comparison of the Top 8 Libraries](https://betterstack.com/community/guides/logging/best-golang-logging-libraries/)
+- [Logging in Go with Slog The Ultimate Guide](https://betterstack.com/community/guides/logging/logging-in-go/)
+- [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
+- [Prefer table driven tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
+- [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
+- [Profile-guided optimization](https://go.dev/doc/pgo)
+- [Retrieval Augmented Generation in Go](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
+- [Structured Logging with slog](https://go.dev/blog/slog)
+- [The Go Programming Language Specification](https://go.dev/ref/spec)
+- [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
+- [Use internal packages to reduce your public API surface](https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface)
+
+### Books
+
+- [100 Go Mistakes](https://100go.co/)
+- [Go Perfbook](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
+
+### Module documentation
+
+- [errors](https://pkg.go.dev/errors)
+- [log/slog](https://pkg.go.dev/log/slog)
+- [testing/slogtest](https://pkg.go.dev/testing/slogtest)
+
+
+### Style guides
+
+- [Google's style guide](https://google.github.io/styleguide/go/)
+- [Uber's style guide](https://github.com/uber-go/guide)
+
+### Workshops
+
+- [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)
+- [Practical Go Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/gophercon-singapore-2019.html)
+
 ## Prompt
 
 **[Moss](https://chat.openai.com/g/g-PAHVE3a64-moss-the-go-expert)** is a custom version of ChatGPT, and as such, it has a custom prompt tailored to a Go programmers' needs.
