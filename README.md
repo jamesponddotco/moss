@@ -26,6 +26,7 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 - [CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
 - [Common pitfalls in Go benchmarking](https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/)
 - [Constant Time](https://dave.cheney.net/2019/06/10/constant-time)
+- [Context cancellation: Don't waste resources on aborted requests](https://www.willem.dev/articles/context-cancellation-explained/)
 - [Coverage profiling support for integration tests](https://go.dev/testing/coverage/)
 - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 - [Don’t force allocations on the callers of your API](https://dave.cheney.net/2019/09/05/dont-force-allocations-on-the-callers-of-your-api)
@@ -35,6 +36,7 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 - [Go 1.21 is released!](https://go.dev/blog/go1.21)
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Go testing style guide](https://www.arp242.net/go-testing-style)
+- [How to parse a time or date in Go](https://www.willem.dev/articles/how-to-parse-time-date/)
 - [Inlining optimisations in Go](https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go)
 - [Logging in Go A Comparison of the Top 8 Libraries](https://betterstack.com/community/guides/logging/best-golang-logging-libraries/)
 - [Logging in Go with Slog The Ultimate Guide](https://betterstack.com/community/guides/logging/logging-in-go/)
@@ -42,10 +44,12 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 - [Prefer table driven tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
 - [Profile-guided optimization](https://go.dev/doc/pgo)
+- [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
 - [Retrieval Augmented Generation in Go](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
 - [Structured Logging with slog](https://go.dev/blog/slog)
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
 - [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
+- [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 - [Use internal packages to reduce your public API surface](https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface)
 
 ### Books
