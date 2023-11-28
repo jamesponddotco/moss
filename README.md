@@ -48,6 +48,7 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 - [Retrieval Augmented Generation in Go](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
 - [Structured Logging with slog](https://go.dev/blog/slog)
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
+- [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
 - [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 - [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 - [Use internal packages to reduce your public API surface](https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface)
