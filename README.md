@@ -17,8 +17,11 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 ### Articles & Pages
 
 - [A few bytes here, a few there, pretty soon you’re talking real memory](https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory)
+- [A Guide to Effective Go Documentation](https://nirdoshgautam.dev/effective-go-documentation)
 - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 - [Bitmasks for nicer APIs](https://www.arp242.net/bitmask)
+- [Building a Logger Wrapper in Go with Support for Multiple Logging Libraries](https://dev.to/ansu/building-a-logger-wrapper-in-go-with-support-for-multiple-logging-libraries-2kj2)
+- [Building a Production-Ready Go Client Library: Considerations](https://nirdoshgautam.dev/building-go-sdk)
 - [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever)
 - [Code coverage for Go integration tests](https://go.dev/blog/integration-test-coverage)
 - [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
@@ -33,6 +36,7 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 - [Don’t force allocations on the callers of your API](https://dave.cheney.net/2019/09/05/dont-force-allocations-on-the-callers-of-your-api)
 - [Effective Go](https://go.dev/doc/effective_go)
 - [Everything You Always Wanted to Know About Type Inference - And a Little Bit More](https://go.dev/blog/type-inference)
+- [Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
 - [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
 - [Forwarded Header Sabotage](https://adam-p.ca/blog/2022/03/forwarded-header-sabotage/)
 - [Go 1.21 is released!](https://go.dev/blog/go1.21)
@@ -42,18 +46,21 @@ Custom GPTs have a limit of 10 uploaded files, so we concatenate every category 
 - [Inlining optimisations in Go](https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go)
 - [Logging in Go A Comparison of the Top 8 Libraries](https://betterstack.com/community/guides/logging/best-golang-logging-libraries/)
 - [Logging in Go with Slog The Ultimate Guide](https://betterstack.com/community/guides/logging/logging-in-go/)
+- [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 - [Prefer table driven tests](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
 - [Profile-guided optimization](https://go.dev/doc/pgo)
 - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
 - [Retrieval Augmented Generation in Go](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
+- [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/)
 - [Structured Logging with slog](https://go.dev/blog/slog)
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
 - [The perils of the “real” client IP](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
 - [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 - [Understanding Go 1.21 generics type inference](https://encore.dev/blog/go1.21-generics)
 - [Use internal packages to reduce your public API surface](https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface)
+- [Use sync.Pool in Golang to reduce GC pressure](https://www.sobyte.net/post/2022-06/go-sync-pool/)
 
 ### Books
 
